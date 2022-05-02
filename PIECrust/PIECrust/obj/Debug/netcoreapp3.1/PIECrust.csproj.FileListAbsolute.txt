@@ -1,0 +1,16 @@
+C:\Users\Peter\source\repos\PIECrust\PIECrust\bin\Debug\netcoreapp3.1\PIECrust.exe
+C:\Users\Peter\source\repos\PIECrust\PIECrust\bin\Debug\netcoreapp3.1\PIECrust.deps.json
+C:\Users\Peter\source\repos\PIECrust\PIECrust\bin\Debug\netcoreapp3.1\PIECrust.runtimeconfig.json
+C:\Users\Peter\source\repos\PIECrust\PIECrust\bin\Debug\netcoreapp3.1\PIECrust.runtimeconfig.dev.json
+C:\Users\Peter\source\repos\PIECrust\PIECrust\bin\Debug\netcoreapp3.1\PIECrust.dll
+C:\Users\Peter\source\repos\PIECrust\PIECrust\bin\Debug\netcoreapp3.1\PIECrust.pdb
+C:\Users\Peter\source\repos\PIECrust\PIECrust\obj\Debug\netcoreapp3.1\PIECrust.csproj.AssemblyReference.cache
+C:\Users\Peter\source\repos\PIECrust\PIECrust\obj\Debug\netcoreapp3.1\PIECrust.Form1.resources
+C:\Users\Peter\source\repos\PIECrust\PIECrust\obj\Debug\netcoreapp3.1\PIECrust.csproj.GenerateResource.cache
+C:\Users\Peter\source\repos\PIECrust\PIECrust\obj\Debug\netcoreapp3.1\PIECrust.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peter\source\repos\PIECrust\PIECrust\obj\Debug\netcoreapp3.1\PIECrust.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\PIECrust\PIECrust\obj\Debug\netcoreapp3.1\PIECrust.AssemblyInfo.cs
+C:\Users\Peter\source\repos\PIECrust\PIECrust\obj\Debug\netcoreapp3.1\PIECrust.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\PIECrust\PIECrust\obj\Debug\netcoreapp3.1\PIECrust.dll
+C:\Users\Peter\source\repos\PIECrust\PIECrust\obj\Debug\netcoreapp3.1\PIECrust.pdb
+C:\Users\Peter\source\repos\PIECrust\PIECrust\obj\Debug\netcoreapp3.1\PIECrust.genruntimeconfig.cache
